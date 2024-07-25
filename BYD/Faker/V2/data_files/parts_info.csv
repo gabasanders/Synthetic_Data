@@ -1,181 +1,181 @@
 partCode,partName,unity,isPermittedToOrder,permiteedOrderType,sellingPrice,suggestedRetailPrice,warrantyPrice,vehicleSeries,volume,region,sparePartsType,isOemParts,creationDate
-PABP0001BYD001,Battery Pack,Piece,No,Type1,146.14,528.41,793.28,Dolphin,9.76,Brazil North,OEM,Yes,2024-05-26
-PAEM0002BYD001,Electric Motor,Piece,No,Type2,623.98,303.22,692.72,Dolphin,7.31,Brazil Central-West,OEM,Yes,2024-02-26
-PAIN0003BYD001,Inverter,Piece,No,Type1,809.04,1159.41,429.53,Dolphin,4.34,Brazil Northeast,OEM,Yes,2024-06-15
-PACP0004BYD001,Charging Port,Piece,Yes,Type1,368.06,703.1,800.99,Dolphin,0.27,Brazil North,OEM,Yes,2024-03-20
-PADC0005BYD001,DC-DC Converter,Piece,No,Type2,738.7,146.74,400.14,Dolphin,4.6,Brazil South,OEM,Yes,2024-06-13
-PABMS006BYD001,Battery Management System (BMS),Piece,No,Type1,551.56,817.73,639.82,Dolphin,6.9,Brazil Southeast,OEM,Yes,2024-03-15
-PAPEC007BYD001,Power Electronics Controller,Piece,No,Type1,242.23,548.35,82.34,Dolphin,2.72,Brazil Northeast,OEM,Yes,2024-04-13
-PATMS008BYD001,Thermal Management System,Piece,Yes,Type2,261.87,203.84,174.08,Dolphin,8.11,Brazil North,OEM,Yes,2024-01-28
-PARBS009BYD001,Regenerative Braking System,Piece,Yes,Type2,463.46,228.85,573.57,Dolphin,8.54,Brazil Central-West,OEM,Yes,2024-02-23
-PAOC0100BYD001,Onboard Charger,Piece,No,Type1,453.65,529.41,623.42,Dolphin,9.04,Brazil North,OEM,Yes,2024-06-29
-PAHVC011BYD001,High Voltage Cables,Piece,Yes,Type1,45.02,862.67,380.38,Dolphin,2.89,Brazil South,OEM,Yes,2024-05-04
-PAEDU012BYD001,Electric Drive unity,Piece,No,Type2,252.29,1124.22,82.06,Dolphin,1.13,Brazil Southeast,OEM,Yes,2024-05-20
-PARG0130BYD001,Reduction Gear,Piece,Yes,Type2,528.47,1153.8,870.52,Dolphin,1.85,Brazil Central-West,OEM,Yes,2024-04-23
-PAHP0140BYD001,Heat Pump,Piece,No,Type1,701.71,805.41,162.94,Dolphin,7.82,Brazil North,OEM,Yes,2024-06-23
-PAEAC015BYD001,Electric Air Conditioning Compressor,Piece,No,Type2,513.36,543.17,163.64,Dolphin,0.21,Brazil Southeast,OEM,Yes,2024-05-13
-PAEWP016BYD001,Electric Water Pump,Piece,Yes,Type1,44.86,643.09,566.9,Dolphin,4.39,Brazil Southeast,OEM,Yes,2024-04-05
-PABP0170BYD001,Brake Pads,Piece,Yes,Type1,76.09,408.29,319.43,Dolphin,3.16,Brazil Northeast,OEM,Yes,2024-03-04
-PABD0180BYD001,Brake Discs,Piece,Yes,Type2,751.23,1067.03,486.67,Dolphin,6.9,Brazil North,OEM,Yes,2024-06-28
-PATI0190BYD001,Tires,Piece,Yes,Type2,426.34,644.85,519.36,Dolphin,2.55,Brazil North,OEM,Yes,2024-02-19
-PAWB0200BYD001,Wheel Bearings,Piece,Yes,Type1,520.85,1172.68,872.04,Dolphin,6.69,Brazil North,OEM,Yes,2024-05-11
-PAWS0210BYD001,Windshield,Piece,No,Type2,417.0,1142.78,863.51,Dolphin,6.29,Brazil Central-West,OEM,Yes,2024-03-26
-PAMI0220BYD001,Mirrors,Piece,Yes,Type1,69.08,316.39,875.2,Dolphin,7.31,Brazil North,OEM,Yes,2024-07-12
-PAHL0230BYD001,Headlights,Piece,No,Type2,475.11,195.61,500.96,Dolphin,7.17,Brazil Central-West,OEM,Yes,2024-02-29
-PATL0240BYD001,Taillights,Piece,No,Type2,70.11,826.65,736.22,Dolphin,5.31,Brazil Southeast,OEM,Yes,2024-02-07
-PAWB0250BYD001,Wiper Blades,Piece,Yes,Type2,348.15,294.97,177.99,Dolphin,2.91,Brazil Central-West,OEM,Yes,2024-06-21
-PASC0260BYD001,"Suspension Components (Shocks, Struts)",Piece,Yes,Type1,189.45,1093.79,328.58,Dolphin,0.73,Brazil Central-West,OEM,Yes,2024-05-03
-PACA0270BYD001,Control Arms,Piece,Yes,Type1,598.21,1186.88,188.92,Dolphin,4.76,Brazil Southeast,OEM,Yes,2024-03-08
-PATRE028BYD001,Tie Rod Ends,Piece,No,Type1,169.94,59.78,671.31,Dolphin,5.52,Brazil North,OEM,Yes,2024-02-03
-PACVJ029BYD001,CV Joints,Piece,Yes,Type1,968.81,713.11,808.71,Dolphin,7.04,Brazil Southeast,OEM,Yes,2024-05-02
-PAAX0300BYD001,Axles,Piece,No,Type2,517.12,48.69,217.46,Dolphin,8.51,Brazil North,OEM,Yes,2024-03-04
-PACL0310BYD001,Coolant (for thermal management),Piece,No,Type1,726.53,293.16,346.35,Dolphin,3.43,Brazil North,OEM,Yes,2024-04-15
-PABF0320BYD001,Brake Fluid,Piece,Yes,Type1,181.57,337.08,329.53,Dolphin,4.41,Brazil Northeast,OEM,Yes,2024-05-18
-PAPSF033BYD001,Power Steering Fluid (if applicable),Piece,No,Type2,254.63,1097.53,639.34,Dolphin,8.73,Brazil North,OEM,Yes,2024-02-15
-PACAF034BYD001,Cabin Air Filter,Piece,Yes,Type1,54.84,915.35,705.67,Dolphin,9.82,Brazil North,OEM,Yes,2024-02-13
-PAFB0350BYD001,Fuse Box,Piece,Yes,Type2,770.27,268.04,214.88,Dolphin,9.86,Brazil Northeast,OEM,Yes,2024-05-27
-PAAB0360BYD001,12V Auxiliary Battery,Piece,No,Type1,146.4,378.94,755.33,Dolphin,0.49,Brazil Central-West,OEM,Yes,2024-05-05
-PABP0001BYD002,Battery Pack,Piece,No,Type1,328.81,506.67,679.89,Seal,7.98,Brazil Southeast,OEM,Yes,2024-05-07
-PAEM0002BYD002,Electric Motor,Piece,No,Type2,339.09,629.68,404.34,Seal,2.56,Brazil Northeast,OEM,Yes,2024-04-30
-PAIN0003BYD002,Inverter,Piece,No,Type1,553.06,225.97,568.54,Seal,3.17,Brazil Southeast,OEM,Yes,2024-05-09
-PACP0004BYD002,Charging Port,Piece,Yes,Type2,248.25,172.17,285.8,Seal,6.63,Brazil Central-West,OEM,Yes,2024-01-01
-PADC0005BYD002,DC-DC Converter,Piece,Yes,Type2,162.03,1173.68,432.61,Seal,1.24,Brazil Northeast,OEM,Yes,2024-03-14
-PABMS006BYD002,Battery Management System (BMS),Piece,Yes,Type1,336.73,145.59,72.3,Seal,0.15,Brazil Central-West,OEM,Yes,2024-04-27
-PAPEC007BYD002,Power Electronics Controller,Piece,No,Type1,424.53,746.88,205.16,Seal,0.38,Brazil North,OEM,Yes,2024-03-13
-PATMS008BYD002,Thermal Management System,Piece,No,Type1,47.62,301.62,47.93,Seal,3.07,Brazil Northeast,OEM,Yes,2024-03-06
-PARBS009BYD002,Regenerative Braking System,Piece,Yes,Type1,260.31,511.05,122.54,Seal,0.63,Brazil Southeast,OEM,Yes,2024-03-02
-PAOC0100BYD002,Onboard Charger,Piece,No,Type2,60.28,1157.38,576.65,Seal,0.99,Brazil South,OEM,Yes,2024-07-03
-PAHVC011BYD002,High Voltage Cables,Piece,Yes,Type1,384.91,857.33,673.38,Seal,5.94,Brazil Northeast,OEM,Yes,2024-04-03
-PAEDU012BYD002,Electric Drive unity,Piece,Yes,Type2,920.75,1136.87,684.43,Seal,0.14,Brazil Southeast,OEM,Yes,2024-01-31
-PARG0130BYD002,Reduction Gear,Piece,No,Type1,735.43,387.53,211.62,Seal,5.59,Brazil Central-West,OEM,Yes,2024-07-22
-PAHP0140BYD002,Heat Pump,Piece,Yes,Type2,443.05,46.19,267.74,Seal,3.76,Brazil South,OEM,Yes,2024-04-10
-PAEAC015BYD002,Electric Air Conditioning Compressor,Piece,Yes,Type2,596.8,414.38,262.03,Seal,6.5,Brazil North,OEM,Yes,2024-02-11
-PAEWP016BYD002,Electric Water Pump,Piece,Yes,Type2,447.1,990.69,239.74,Seal,7.71,Brazil Southeast,OEM,Yes,2024-01-20
-PABP0170BYD002,Brake Pads,Piece,No,Type1,950.34,988.23,206.89,Seal,8.48,Brazil Central-West,OEM,Yes,2024-05-27
-PABD0180BYD002,Brake Discs,Piece,No,Type1,958.87,536.24,433.84,Seal,9.53,Brazil Northeast,OEM,Yes,2024-02-04
-PATI0190BYD002,Tires,Piece,No,Type2,301.95,854.25,583.05,Seal,5.99,Brazil Northeast,OEM,Yes,2024-05-31
-PAWB0200BYD002,Wheel Bearings,Piece,Yes,Type1,795.44,928.58,444.87,Seal,4.2,Brazil Northeast,OEM,Yes,2024-06-29
-PAWS0210BYD002,Windshield,Piece,No,Type1,988.73,744.58,153.79,Seal,4.8,Brazil Northeast,OEM,Yes,2024-07-07
-PAMI0220BYD002,Mirrors,Piece,Yes,Type2,440.64,922.71,138.92,Seal,7.37,Brazil North,OEM,Yes,2024-02-24
-PAHL0230BYD002,Headlights,Piece,Yes,Type1,462.46,1047.44,556.84,Seal,7.11,Brazil South,OEM,Yes,2024-02-24
-PATL0240BYD002,Taillights,Piece,No,Type1,700.18,354.43,213.23,Seal,4.22,Brazil Central-West,OEM,Yes,2024-01-23
-PAWB0250BYD002,Wiper Blades,Piece,Yes,Type2,559.4,337.83,323.44,Seal,8.88,Brazil North,OEM,Yes,2024-02-13
-PASC0260BYD002,"Suspension Components (Shocks, Struts)",Piece,Yes,Type1,818.16,259.88,424.08,Seal,1.82,Brazil Southeast,OEM,Yes,2024-02-28
-PACA0270BYD002,Control Arms,Piece,Yes,Type1,621.82,151.27,746.41,Seal,4.84,Brazil Northeast,OEM,Yes,2024-02-16
-PATRE028BYD002,Tie Rod Ends,Piece,No,Type1,917.34,1156.37,862.83,Seal,9.74,Brazil North,OEM,Yes,2024-06-05
-PACVJ029BYD002,CV Joints,Piece,Yes,Type1,492.46,507.54,531.93,Seal,5.79,Brazil Southeast,OEM,Yes,2024-02-06
-PAAX0300BYD002,Axles,Piece,No,Type2,192.62,336.82,189.97,Seal,4.92,Brazil North,OEM,Yes,2024-04-19
-PACL0310BYD002,Coolant (for thermal management),Piece,Yes,Type2,696.41,545.35,71.02,Seal,9.71,Brazil South,OEM,Yes,2024-02-01
-PABF0320BYD002,Brake Fluid,Piece,Yes,Type1,23.97,663.24,446.61,Seal,7.05,Brazil North,OEM,Yes,2024-02-08
-PAPSF033BYD002,Power Steering Fluid (if applicable),Piece,No,Type1,562.62,372.58,838.05,Seal,3.3,Brazil Central-West,OEM,Yes,2024-03-25
-PACAF034BYD002,Cabin Air Filter,Piece,Yes,Type1,734.68,21.34,774.09,Seal,9.27,Brazil Southeast,OEM,Yes,2024-04-27
-PAFB0350BYD002,Fuse Box,Piece,Yes,Type2,633.13,1068.31,458.1,Seal,3.69,Brazil Northeast,OEM,Yes,2024-06-05
-PAAB0360BYD002,12V Auxiliary Battery,Piece,No,Type1,318.28,479.96,44.61,Seal,6.66,Brazil Southeast,OEM,Yes,2024-03-07
-PABP0001BYD003,Battery Pack,Piece,No,Type1,741.89,686.88,235.56,Yuan,0.69,Brazil North,OEM,Yes,2024-06-24
-PAEM0002BYD003,Electric Motor,Piece,Yes,Type1,145.13,1134.57,364.28,Yuan,2.18,Brazil South,OEM,Yes,2024-04-13
-PAIN0003BYD003,Inverter,Piece,No,Type2,263.07,1173.01,231.73,Yuan,6.4,Brazil Central-West,OEM,Yes,2024-05-11
-PACP0004BYD003,Charging Port,Piece,Yes,Type1,242.27,60.63,240.03,Yuan,5.77,Brazil North,OEM,Yes,2024-03-08
-PADC0005BYD003,DC-DC Converter,Piece,No,Type2,944.25,1061.82,385.44,Yuan,2.44,Brazil Northeast,OEM,Yes,2024-06-05
-PABMS006BYD003,Battery Management System (BMS),Piece,Yes,Type2,241.52,103.24,806.98,Yuan,4.41,Brazil North,OEM,Yes,2024-04-11
-PAPEC007BYD003,Power Electronics Controller,Piece,No,Type1,625.86,52.18,662.75,Yuan,3.47,Brazil Northeast,OEM,Yes,2024-03-09
-PATMS008BYD003,Thermal Management System,Piece,Yes,Type1,665.85,820.37,53.05,Yuan,8.19,Brazil Southeast,OEM,Yes,2024-03-03
-PARBS009BYD003,Regenerative Braking System,Piece,Yes,Type1,692.85,973.83,689.61,Yuan,7.01,Brazil Central-West,OEM,Yes,2024-02-03
-PAOC0100BYD003,Onboard Charger,Piece,Yes,Type2,561.57,972.94,492.35,Yuan,7.7,Brazil Northeast,OEM,Yes,2024-03-23
-PAHVC011BYD003,High Voltage Cables,Piece,No,Type1,705.67,318.48,440.62,Yuan,2.86,Brazil North,OEM,Yes,2024-07-20
-PAEDU012BYD003,Electric Drive unity,Piece,Yes,Type1,427.25,487.69,602.0,Yuan,4.27,Brazil South,OEM,Yes,2024-05-18
-PARG0130BYD003,Reduction Gear,Piece,No,Type2,999.6,546.39,621.76,Yuan,8.08,Brazil Central-West,OEM,Yes,2024-06-26
-PAHP0140BYD003,Heat Pump,Piece,Yes,Type1,219.12,605.82,560.47,Yuan,1.59,Brazil Northeast,OEM,Yes,2024-02-05
-PAEAC015BYD003,Electric Air Conditioning Compressor,Piece,No,Type2,789.94,348.95,403.67,Yuan,6.74,Brazil Central-West,OEM,Yes,2024-05-08
-PAEWP016BYD003,Electric Water Pump,Piece,No,Type2,835.97,554.0,589.54,Yuan,1.65,Brazil Southeast,OEM,Yes,2024-07-19
-PABP0170BYD003,Brake Pads,Piece,No,Type1,610.46,38.83,205.76,Yuan,8.05,Brazil South,OEM,Yes,2024-06-13
-PABD0180BYD003,Brake Discs,Piece,Yes,Type2,966.66,1053.45,643.58,Yuan,0.34,Brazil North,OEM,Yes,2024-04-27
-PATI0190BYD003,Tires,Piece,Yes,Type1,960.81,355.53,789.49,Yuan,3.38,Brazil North,OEM,Yes,2024-06-27
-PAWB0200BYD003,Wheel Bearings,Piece,Yes,Type1,62.6,1107.62,414.21,Yuan,9.61,Brazil South,OEM,Yes,2024-01-22
-PAWS0210BYD003,Windshield,Piece,No,Type1,139.04,135.23,78.36,Yuan,5.11,Brazil North,OEM,Yes,2024-02-24
-PAMI0220BYD003,Mirrors,Piece,No,Type1,419.01,1105.76,617.33,Yuan,6.63,Brazil Central-West,OEM,Yes,2024-05-15
-PAHL0230BYD003,Headlights,Piece,No,Type2,446.54,272.83,35.22,Yuan,7.44,Brazil Southeast,OEM,Yes,2024-03-09
-PATL0240BYD003,Taillights,Piece,No,Type2,31.62,304.82,142.34,Yuan,7.36,Brazil North,OEM,Yes,2024-07-12
-PAWB0250BYD003,Wiper Blades,Piece,Yes,Type1,617.2,38.3,637.88,Yuan,3.05,Brazil South,OEM,Yes,2024-03-28
-PASC0260BYD003,"Suspension Components (Shocks, Struts)",Piece,No,Type2,723.75,990.1,351.52,Yuan,1.7,Brazil South,OEM,Yes,2024-03-30
-PACA0270BYD003,Control Arms,Piece,No,Type2,440.97,1091.78,697.39,Yuan,4.2,Brazil Southeast,OEM,Yes,2024-01-26
-PATRE028BYD003,Tie Rod Ends,Piece,No,Type2,977.78,559.69,576.07,Yuan,7.73,Brazil Northeast,OEM,Yes,2024-02-18
-PACVJ029BYD003,CV Joints,Piece,No,Type1,376.37,277.76,410.11,Yuan,6.6,Brazil North,OEM,Yes,2024-06-19
-PAAX0300BYD003,Axles,Piece,Yes,Type2,58.59,642.3,437.03,Yuan,2.77,Brazil Northeast,OEM,Yes,2024-06-17
-PACL0310BYD003,Coolant (for thermal management),Piece,Yes,Type1,850.33,716.28,446.49,Yuan,0.53,Brazil North,OEM,Yes,2024-02-08
-PABF0320BYD003,Brake Fluid,Piece,Yes,Type1,164.86,43.13,387.97,Yuan,7.34,Brazil Northeast,OEM,Yes,2024-05-20
-PAPSF033BYD003,Power Steering Fluid (if applicable),Piece,Yes,Type1,110.61,162.0,181.03,Yuan,1.07,Brazil Southeast,OEM,Yes,2024-03-28
-PACAF034BYD003,Cabin Air Filter,Piece,No,Type2,869.51,589.44,152.28,Yuan,9.95,Brazil Southeast,OEM,Yes,2024-02-17
-PAFB0350BYD003,Fuse Box,Piece,Yes,Type1,541.7,281.82,559.04,Yuan,2.85,Brazil Central-West,OEM,Yes,2024-05-05
-PAAB0360BYD003,12V Auxiliary Battery,Piece,Yes,Type2,828.54,909.14,264.08,Yuan,4.02,Brazil Southeast,OEM,Yes,2024-02-22
-PABP0001BYD004,Battery Pack,Piece,No,Type1,505.75,465.84,896.21,Han,6.31,Brazil Southeast,OEM,Yes,2024-03-18
-PAEM0002BYD004,Electric Motor,Piece,No,Type1,591.06,256.14,466.8,Han,2.75,Brazil Southeast,OEM,Yes,2024-04-01
-PAIN0003BYD004,Inverter,Piece,Yes,Type2,780.28,780.85,556.29,Han,2.93,Brazil South,OEM,Yes,2024-05-02
-PACP0004BYD004,Charging Port,Piece,Yes,Type1,250.3,586.99,732.62,Han,3.4,Brazil Southeast,OEM,Yes,2024-07-11
-PADC0005BYD004,DC-DC Converter,Piece,No,Type1,751.76,1175.97,885.5,Han,5.78,Brazil Central-West,OEM,Yes,2024-05-13
-PABMS006BYD004,Battery Management System (BMS),Piece,Yes,Type2,800.89,703.55,32.83,Han,1.01,Brazil North,OEM,Yes,2024-07-05
-PAPEC007BYD004,Power Electronics Controller,Piece,Yes,Type2,843.17,141.93,754.59,Han,1.88,Brazil South,OEM,Yes,2024-07-14
-PATMS008BYD004,Thermal Management System,Piece,No,Type1,933.59,794.89,718.83,Han,1.56,Brazil North,OEM,Yes,2024-04-14
-PARBS009BYD004,Regenerative Braking System,Piece,Yes,Type1,788.36,236.17,713.43,Han,3.4,Brazil North,OEM,Yes,2024-04-24
-PAOC0100BYD004,Onboard Charger,Piece,No,Type2,794.47,1104.0,539.85,Han,6.63,Brazil Central-West,OEM,Yes,2024-01-08
-PAHVC011BYD004,High Voltage Cables,Piece,Yes,Type2,710.18,367.81,412.77,Han,3.54,Brazil Northeast,OEM,Yes,2024-03-10
-PAEDU012BYD004,Electric Drive unity,Piece,No,Type1,761.91,551.15,246.51,Han,6.85,Brazil Central-West,OEM,Yes,2024-04-15
-PARG0130BYD004,Reduction Gear,Piece,No,Type2,135.4,724.41,348.64,Han,8.97,Brazil North,OEM,Yes,2024-03-17
-PAHP0140BYD004,Heat Pump,Piece,Yes,Type1,286.7,126.37,581.14,Han,8.04,Brazil Northeast,OEM,Yes,2024-07-13
-PAEAC015BYD004,Electric Air Conditioning Compressor,Piece,Yes,Type1,35.24,1128.83,599.13,Han,8.16,Brazil Northeast,OEM,Yes,2024-02-12
-PAEWP016BYD004,Electric Water Pump,Piece,Yes,Type1,727.94,1117.58,398.03,Han,1.6,Brazil North,OEM,Yes,2024-05-01
-PABP0170BYD004,Brake Pads,Piece,Yes,Type2,921.43,693.37,621.63,Han,2.32,Brazil South,OEM,Yes,2024-06-19
-PABD0180BYD004,Brake Discs,Piece,No,Type2,438.06,413.39,510.52,Han,8.56,Brazil Northeast,OEM,Yes,2024-03-08
-PATI0190BYD004,Tires,Piece,Yes,Type1,518.05,606.02,382.45,Han,0.39,Brazil Southeast,OEM,Yes,2024-02-12
-PAWB0200BYD004,Wheel Bearings,Piece,Yes,Type1,561.58,494.1,327.88,Han,5.82,Brazil South,OEM,Yes,2024-01-19
-PAWS0210BYD004,Windshield,Piece,Yes,Type1,832.42,1184.47,778.86,Han,4.49,Brazil Southeast,OEM,Yes,2024-06-25
-PAMI0220BYD004,Mirrors,Piece,No,Type2,597.46,1191.48,420.86,Han,7.43,Brazil Southeast,OEM,Yes,2024-07-24
-PAHL0230BYD004,Headlights,Piece,No,Type1,76.72,895.34,808.92,Han,5.69,Brazil Southeast,OEM,Yes,2024-07-24
-PATL0240BYD004,Taillights,Piece,Yes,Type2,179.33,41.47,624.12,Han,7.1,Brazil North,OEM,Yes,2024-05-25
-PAWB0250BYD004,Wiper Blades,Piece,No,Type2,407.47,874.76,573.04,Han,6.7,Brazil Northeast,OEM,Yes,2024-06-12
-PASC0260BYD004,"Suspension Components (Shocks, Struts)",Piece,Yes,Type1,724.21,1112.68,791.0,Han,7.65,Brazil Northeast,OEM,Yes,2024-05-03
-PACA0270BYD004,Control Arms,Piece,No,Type1,794.0,1191.4,699.57,Han,5.82,Brazil South,OEM,Yes,2024-05-11
-PATRE028BYD004,Tie Rod Ends,Piece,No,Type2,251.8,57.38,877.89,Han,9.99,Brazil Northeast,OEM,Yes,2024-03-29
-PACVJ029BYD004,CV Joints,Piece,No,Type2,362.53,422.6,105.11,Han,4.25,Brazil North,OEM,Yes,2024-05-08
-PAAX0300BYD004,Axles,Piece,No,Type1,675.94,69.92,848.63,Han,1.7,Brazil Central-West,OEM,Yes,2024-07-10
-PACL0310BYD004,Coolant (for thermal management),Piece,Yes,Type1,525.26,694.02,862.15,Han,9.23,Brazil North,OEM,Yes,2024-02-26
-PABF0320BYD004,Brake Fluid,Piece,No,Type1,871.7,1069.28,793.72,Han,8.38,Brazil Central-West,OEM,Yes,2024-07-20
-PAPSF033BYD004,Power Steering Fluid (if applicable),Piece,No,Type1,933.85,1039.0,28.52,Han,7.43,Brazil North,OEM,Yes,2024-01-11
-PACAF034BYD004,Cabin Air Filter,Piece,Yes,Type2,507.87,1048.68,761.96,Han,9.16,Brazil Central-West,OEM,Yes,2024-07-06
-PAFB0350BYD004,Fuse Box,Piece,No,Type1,341.38,969.59,170.58,Han,8.86,Brazil Northeast,OEM,Yes,2024-02-24
-PAAB0360BYD004,12V Auxiliary Battery,Piece,No,Type2,892.87,1120.29,882.5,Han,6.77,Brazil Southeast,OEM,Yes,2024-01-01
-PABP0001BYD005,Battery Pack,Piece,No,Type1,331.05,1030.0,753.45,Tan,2.15,Brazil North,OEM,Yes,2024-02-02
-PAEM0002BYD005,Electric Motor,Piece,Yes,Type2,136.37,251.76,579.32,Tan,5.83,Brazil Northeast,OEM,Yes,2024-01-08
-PAIN0003BYD005,Inverter,Piece,Yes,Type2,524.59,279.44,760.59,Tan,3.12,Brazil South,OEM,Yes,2024-02-23
-PACP0004BYD005,Charging Port,Piece,Yes,Type1,14.32,276.06,509.93,Tan,9.38,Brazil Central-West,OEM,Yes,2024-02-12
-PADC0005BYD005,DC-DC Converter,Piece,No,Type2,901.93,88.01,656.78,Tan,5.24,Brazil Central-West,OEM,Yes,2024-01-22
-PABMS006BYD005,Battery Management System (BMS),Piece,Yes,Type1,433.33,790.1,318.68,Tan,1.37,Brazil North,OEM,Yes,2024-05-04
-PAPEC007BYD005,Power Electronics Controller,Piece,Yes,Type2,324.09,215.56,389.7,Tan,7.9,Brazil Southeast,OEM,Yes,2024-05-01
-PATMS008BYD005,Thermal Management System,Piece,Yes,Type2,51.2,801.83,414.18,Tan,7.46,Brazil South,OEM,Yes,2024-03-16
-PARBS009BYD005,Regenerative Braking System,Piece,Yes,Type1,633.59,1069.83,13.12,Tan,4.24,Brazil Southeast,OEM,Yes,2024-01-25
-PAOC0100BYD005,Onboard Charger,Piece,Yes,Type1,388.89,36.94,833.15,Tan,4.22,Brazil Central-West,OEM,Yes,2024-01-19
-PAHVC011BYD005,High Voltage Cables,Piece,Yes,Type2,500.79,1027.79,431.44,Tan,4.5,Brazil Northeast,OEM,Yes,2024-03-30
-PAEDU012BYD005,Electric Drive unity,Piece,No,Type2,305.76,1099.42,236.57,Tan,7.25,Brazil Central-West,OEM,Yes,2024-03-09
-PARG0130BYD005,Reduction Gear,Piece,No,Type2,611.76,808.18,830.74,Tan,1.06,Brazil South,OEM,Yes,2024-05-19
-PAHP0140BYD005,Heat Pump,Piece,No,Type1,520.74,98.25,489.45,Tan,8.25,Brazil Northeast,OEM,Yes,2024-05-28
-PAEAC015BYD005,Electric Air Conditioning Compressor,Piece,No,Type2,758.09,462.27,16.92,Tan,9.81,Brazil Central-West,OEM,Yes,2024-07-24
-PAEWP016BYD005,Electric Water Pump,Piece,Yes,Type2,298.79,271.69,772.92,Tan,6.68,Brazil Central-West,OEM,Yes,2024-05-22
-PABP0170BYD005,Brake Pads,Piece,No,Type2,47.89,236.04,745.03,Tan,7.78,Brazil Southeast,OEM,Yes,2024-06-11
-PABD0180BYD005,Brake Discs,Piece,Yes,Type2,960.37,1095.12,116.29,Tan,4.13,Brazil Southeast,OEM,Yes,2024-03-22
-PATI0190BYD005,Tires,Piece,Yes,Type1,207.13,629.71,402.69,Tan,9.93,Brazil North,OEM,Yes,2024-06-01
-PAWB0200BYD005,Wheel Bearings,Piece,Yes,Type2,362.39,938.67,608.4,Tan,2.99,Brazil Northeast,OEM,Yes,2024-01-16
-PAWS0210BYD005,Windshield,Piece,Yes,Type1,448.93,927.08,613.88,Tan,9.02,Brazil Central-West,OEM,Yes,2024-03-27
-PAMI0220BYD005,Mirrors,Piece,No,Type1,522.6,177.3,216.15,Tan,9.71,Brazil Central-West,OEM,Yes,2024-01-03
-PAHL0230BYD005,Headlights,Piece,Yes,Type2,962.4,705.84,480.05,Tan,3.89,Brazil Northeast,OEM,Yes,2024-06-22
-PATL0240BYD005,Taillights,Piece,No,Type1,348.31,848.65,217.09,Tan,9.92,Brazil Northeast,OEM,Yes,2024-01-05
-PAWB0250BYD005,Wiper Blades,Piece,Yes,Type1,693.64,922.59,875.08,Tan,7.79,Brazil South,OEM,Yes,2024-06-10
-PASC0260BYD005,"Suspension Components (Shocks, Struts)",Piece,Yes,Type1,626.24,72.1,842.85,Tan,2.02,Brazil Southeast,OEM,Yes,2024-02-29
-PACA0270BYD005,Control Arms,Piece,Yes,Type1,396.11,1097.76,312.34,Tan,2.91,Brazil North,OEM,Yes,2024-03-19
-PATRE028BYD005,Tie Rod Ends,Piece,Yes,Type2,566.74,727.34,48.26,Tan,7.31,Brazil South,OEM,Yes,2024-01-25
-PACVJ029BYD005,CV Joints,Piece,No,Type2,83.19,519.92,484.82,Tan,0.3,Brazil North,OEM,Yes,2024-02-20
-PAAX0300BYD005,Axles,Piece,No,Type2,564.25,514.33,262.44,Tan,9.02,Brazil Central-West,OEM,Yes,2024-05-02
-PACL0310BYD005,Coolant (for thermal management),Piece,No,Type1,261.76,221.24,24.54,Tan,9.65,Brazil South,OEM,Yes,2024-04-18
-PABF0320BYD005,Brake Fluid,Piece,No,Type1,259.52,545.77,57.09,Tan,5.98,Brazil Central-West,OEM,Yes,2024-04-24
-PAPSF033BYD005,Power Steering Fluid (if applicable),Piece,Yes,Type1,259.11,427.71,72.64,Tan,6.18,Brazil Northeast,OEM,Yes,2024-06-24
-PACAF034BYD005,Cabin Air Filter,Piece,No,Type1,739.69,969.75,626.93,Tan,4.4,Brazil Central-West,OEM,Yes,2024-05-12
-PAFB0350BYD005,Fuse Box,Piece,Yes,Type2,729.69,1143.5,592.47,Tan,0.95,Brazil North,OEM,Yes,2024-07-22
-PAAB0360BYD005,12V Auxiliary Battery,Piece,Yes,Type1,133.36,308.14,68.68,Tan,6.19,Brazil Southeast,OEM,Yes,2024-06-09
+PABP0001BYD001,Battery Pack,Piece,Yes,Type1,393.15,1048.92,477.75,Dolphin,4.83,Brazil Southeast,OEM,Yes,2024-07-23
+PAEM0002BYD001,Electric Motor,Piece,No,Type2,648.28,518.36,458.61,Dolphin,4.35,Brazil North,OEM,Yes,2024-02-22
+PAIN0003BYD001,Inverter,Piece,Yes,Type2,633.02,926.95,770.5,Dolphin,0.81,Brazil Southeast,OEM,Yes,2024-04-21
+PACP0004BYD001,Charging Port,Piece,Yes,Type1,922.74,769.47,727.41,Dolphin,4.81,Brazil South,OEM,Yes,2024-01-14
+PADC0005BYD001,DC-DC Converter,Piece,Yes,Type1,542.4,343.2,292.42,Dolphin,4.58,Brazil North,OEM,Yes,2024-03-16
+PABMS006BYD001,Battery Management System (BMS),Piece,Yes,Type2,973.8,1034.95,34.44,Dolphin,6.93,Brazil Southeast,OEM,Yes,2024-03-17
+PAPEC007BYD001,Power Electronics Controller,Piece,Yes,Type1,768.57,600.89,523.56,Dolphin,5.39,Brazil Central-West,OEM,Yes,2024-02-25
+PATMS008BYD001,Thermal Management System,Piece,No,Type1,98.65,69.63,292.84,Dolphin,7.77,Brazil Northeast,OEM,Yes,2024-03-07
+PARBS009BYD001,Regenerative Braking System,Piece,Yes,Type1,499.09,888.84,566.76,Dolphin,4.0,Brazil North,OEM,Yes,2024-07-16
+PAOC0100BYD001,Onboard Charger,Piece,Yes,Type2,819.15,903.86,797.03,Dolphin,7.51,Brazil Central-West,OEM,Yes,2024-05-06
+PAHVC011BYD001,High Voltage Cables,Piece,No,Type1,524.53,1077.47,18.4,Dolphin,7.96,Brazil Southeast,OEM,Yes,2024-01-03
+PAEDU012BYD001,Electric Drive unity,Piece,No,Type1,197.81,403.1,855.74,Dolphin,4.62,Brazil North,OEM,Yes,2024-03-08
+PARG0130BYD001,Reduction Gear,Piece,No,Type1,683.96,897.29,504.71,Dolphin,2.06,Brazil Northeast,OEM,Yes,2024-04-05
+PAHP0140BYD001,Heat Pump,Piece,Yes,Type1,226.67,383.53,684.47,Dolphin,1.59,Brazil Central-West,OEM,Yes,2024-03-10
+PAEAC015BYD001,Electric Air Conditioning Compressor,Piece,Yes,Type1,790.12,767.25,609.99,Dolphin,3.45,Brazil North,OEM,Yes,2024-03-21
+PAEWP016BYD001,Electric Water Pump,Piece,Yes,Type2,724.63,1015.33,864.25,Dolphin,9.67,Brazil Central-West,OEM,Yes,2024-02-09
+PABP0170BYD001,Brake Pads,Piece,Yes,Type1,866.89,498.79,500.61,Dolphin,9.52,Brazil Central-West,OEM,Yes,2024-05-09
+PABD0180BYD001,Brake Discs,Piece,No,Type1,234.85,107.6,184.66,Dolphin,4.8,Brazil North,OEM,Yes,2024-06-07
+PATI0190BYD001,Tires,Piece,Yes,Type2,836.72,752.65,254.13,Dolphin,5.54,Brazil Northeast,OEM,Yes,2024-06-18
+PAWB0200BYD001,Wheel Bearings,Piece,Yes,Type1,394.79,677.51,145.75,Dolphin,8.32,Brazil Northeast,OEM,Yes,2024-07-17
+PAWS0210BYD001,Windshield,Piece,Yes,Type1,752.98,861.06,513.36,Dolphin,0.73,Brazil South,OEM,Yes,2024-05-12
+PAMI0220BYD001,Mirrors,Piece,No,Type1,49.15,387.16,516.72,Dolphin,6.96,Brazil South,OEM,Yes,2024-02-24
+PAHL0230BYD001,Headlights,Piece,No,Type2,979.96,753.1,134.41,Dolphin,3.43,Brazil Southeast,OEM,Yes,2024-04-13
+PATL0240BYD001,Taillights,Piece,Yes,Type1,910.7,1128.88,881.56,Dolphin,0.95,Brazil Southeast,OEM,Yes,2024-01-31
+PAWB0250BYD001,Wiper Blades,Piece,No,Type2,387.42,874.44,59.44,Dolphin,6.82,Brazil Southeast,OEM,Yes,2024-07-02
+PASC0260BYD001,"Suspension Components (Shocks, Struts)",Piece,Yes,Type1,539.56,731.31,791.26,Dolphin,9.7,Brazil Southeast,OEM,Yes,2024-05-01
+PACA0270BYD001,Control Arms,Piece,No,Type2,269.38,906.79,867.07,Dolphin,2.39,Brazil North,OEM,Yes,2024-04-12
+PATRE028BYD001,Tie Rod Ends,Piece,No,Type1,43.57,267.81,882.7,Dolphin,6.69,Brazil Northeast,OEM,Yes,2024-03-22
+PACVJ029BYD001,CV Joints,Piece,Yes,Type1,148.16,459.8,613.21,Dolphin,7.61,Brazil Central-West,OEM,Yes,2024-07-12
+PAAX0300BYD001,Axles,Piece,No,Type2,568.98,542.39,333.31,Dolphin,1.18,Brazil Central-West,OEM,Yes,2024-01-30
+PACL0310BYD001,Coolant (for thermal management),Piece,Yes,Type1,479.61,60.78,61.19,Dolphin,1.72,Brazil South,OEM,Yes,2024-01-30
+PABF0320BYD001,Brake Fluid,Piece,No,Type2,178.16,973.46,41.25,Dolphin,4.5,Brazil Central-West,OEM,Yes,2024-02-19
+PAPSF033BYD001,Power Steering Fluid (if applicable),Piece,No,Type2,13.05,1146.86,669.45,Dolphin,0.74,Brazil South,OEM,Yes,2024-06-17
+PACAF034BYD001,Cabin Air Filter,Piece,Yes,Type2,372.22,590.26,562.56,Dolphin,6.47,Brazil Central-West,OEM,Yes,2024-06-29
+PAFB0350BYD001,Fuse Box,Piece,Yes,Type1,188.33,985.57,474.57,Dolphin,1.21,Brazil Central-West,OEM,Yes,2024-05-02
+PAAB0360BYD001,12V Auxiliary Battery,Piece,No,Type2,95.02,619.47,775.9,Dolphin,2.42,Brazil Northeast,OEM,Yes,2024-07-23
+PABP0001BYD002,Battery Pack,Piece,No,Type2,779.79,1192.92,672.96,Seal,8.09,Brazil North,OEM,Yes,2024-07-20
+PAEM0002BYD002,Electric Motor,Piece,Yes,Type1,130.29,1016.25,429.62,Seal,4.18,Brazil North,OEM,Yes,2024-02-05
+PAIN0003BYD002,Inverter,Piece,Yes,Type1,586.08,881.21,844.82,Seal,6.12,Brazil Northeast,OEM,Yes,2024-03-18
+PACP0004BYD002,Charging Port,Piece,Yes,Type2,867.24,316.91,345.58,Seal,0.24,Brazil Southeast,OEM,Yes,2024-03-22
+PADC0005BYD002,DC-DC Converter,Piece,Yes,Type2,122.12,803.24,507.48,Seal,8.48,Brazil South,OEM,Yes,2024-02-16
+PABMS006BYD002,Battery Management System (BMS),Piece,No,Type2,858.6,875.49,618.24,Seal,2.47,Brazil Northeast,OEM,Yes,2024-06-29
+PAPEC007BYD002,Power Electronics Controller,Piece,Yes,Type1,208.79,476.17,592.57,Seal,8.27,Brazil Southeast,OEM,Yes,2024-02-29
+PATMS008BYD002,Thermal Management System,Piece,No,Type2,204.72,958.23,491.23,Seal,7.94,Brazil North,OEM,Yes,2024-07-05
+PARBS009BYD002,Regenerative Braking System,Piece,No,Type2,758.08,874.34,369.2,Seal,8.55,Brazil Southeast,OEM,Yes,2024-05-09
+PAOC0100BYD002,Onboard Charger,Piece,Yes,Type2,741.61,109.47,769.69,Seal,7.57,Brazil Southeast,OEM,Yes,2024-07-13
+PAHVC011BYD002,High Voltage Cables,Piece,Yes,Type1,997.44,1135.49,47.24,Seal,1.95,Brazil North,OEM,Yes,2024-06-24
+PAEDU012BYD002,Electric Drive unity,Piece,Yes,Type1,31.9,679.01,789.3,Seal,1.72,Brazil North,OEM,Yes,2024-01-22
+PARG0130BYD002,Reduction Gear,Piece,No,Type1,601.47,113.36,560.47,Seal,1.12,Brazil Central-West,OEM,Yes,2024-03-24
+PAHP0140BYD002,Heat Pump,Piece,Yes,Type2,247.07,1134.76,155.93,Seal,0.49,Brazil Central-West,OEM,Yes,2024-03-29
+PAEAC015BYD002,Electric Air Conditioning Compressor,Piece,Yes,Type1,874.85,833.05,134.64,Seal,2.24,Brazil Central-West,OEM,Yes,2024-03-23
+PAEWP016BYD002,Electric Water Pump,Piece,Yes,Type1,344.82,543.99,177.54,Seal,9.08,Brazil South,OEM,Yes,2024-06-21
+PABP0170BYD002,Brake Pads,Piece,No,Type1,555.6,728.34,749.98,Seal,7.23,Brazil Northeast,OEM,Yes,2024-05-28
+PABD0180BYD002,Brake Discs,Piece,No,Type2,513.77,598.21,737.15,Seal,5.88,Brazil Northeast,OEM,Yes,2024-02-05
+PATI0190BYD002,Tires,Piece,No,Type1,648.91,547.48,40.14,Seal,0.85,Brazil Northeast,OEM,Yes,2024-01-11
+PAWB0200BYD002,Wheel Bearings,Piece,No,Type1,59.42,498.36,776.86,Seal,6.17,Brazil Northeast,OEM,Yes,2024-03-21
+PAWS0210BYD002,Windshield,Piece,Yes,Type1,952.27,230.12,76.3,Seal,1.17,Brazil Southeast,OEM,Yes,2024-03-19
+PAMI0220BYD002,Mirrors,Piece,No,Type1,647.8,829.02,481.36,Seal,4.24,Brazil North,OEM,Yes,2024-07-02
+PAHL0230BYD002,Headlights,Piece,No,Type1,123.96,1034.43,652.18,Seal,6.86,Brazil Northeast,OEM,Yes,2024-04-10
+PATL0240BYD002,Taillights,Piece,Yes,Type1,920.62,519.05,462.96,Seal,7.57,Brazil Central-West,OEM,Yes,2024-06-20
+PAWB0250BYD002,Wiper Blades,Piece,No,Type2,531.91,607.95,408.08,Seal,6.45,Brazil Northeast,OEM,Yes,2024-02-20
+PASC0260BYD002,"Suspension Components (Shocks, Struts)",Piece,No,Type1,203.46,472.44,638.68,Seal,2.77,Brazil Central-West,OEM,Yes,2024-03-03
+PACA0270BYD002,Control Arms,Piece,No,Type1,51.12,673.45,488.67,Seal,6.71,Brazil Southeast,OEM,Yes,2024-01-10
+PATRE028BYD002,Tie Rod Ends,Piece,No,Type2,76.15,1009.38,91.57,Seal,8.56,Brazil South,OEM,Yes,2024-07-21
+PACVJ029BYD002,CV Joints,Piece,Yes,Type1,625.04,701.35,369.77,Seal,9.36,Brazil Northeast,OEM,Yes,2024-04-08
+PAAX0300BYD002,Axles,Piece,Yes,Type2,143.82,676.84,80.3,Seal,2.38,Brazil Central-West,OEM,Yes,2024-03-12
+PACL0310BYD002,Coolant (for thermal management),Piece,No,Type2,947.71,358.13,179.03,Seal,1.35,Brazil North,OEM,Yes,2024-06-07
+PABF0320BYD002,Brake Fluid,Piece,Yes,Type1,698.08,470.32,21.4,Seal,7.05,Brazil Central-West,OEM,Yes,2024-06-20
+PAPSF033BYD002,Power Steering Fluid (if applicable),Piece,No,Type2,27.55,203.69,512.17,Seal,6.97,Brazil South,OEM,Yes,2024-04-09
+PACAF034BYD002,Cabin Air Filter,Piece,Yes,Type2,274.05,43.9,421.9,Seal,8.46,Brazil South,OEM,Yes,2024-05-30
+PAFB0350BYD002,Fuse Box,Piece,No,Type1,516.94,720.82,709.7,Seal,4.01,Brazil Southeast,OEM,Yes,2024-07-21
+PAAB0360BYD002,12V Auxiliary Battery,Piece,No,Type1,382.97,632.62,183.72,Seal,6.5,Brazil Central-West,OEM,Yes,2024-01-26
+PABP0001BYD003,Battery Pack,Piece,No,Type2,528.19,753.08,512.01,Yuan,5.61,Brazil North,OEM,Yes,2024-02-18
+PAEM0002BYD003,Electric Motor,Piece,Yes,Type1,296.06,162.27,358.27,Yuan,0.17,Brazil Southeast,OEM,Yes,2024-02-01
+PAIN0003BYD003,Inverter,Piece,No,Type1,119.69,378.2,801.48,Yuan,1.71,Brazil North,OEM,Yes,2024-06-07
+PACP0004BYD003,Charging Port,Piece,No,Type2,826.29,790.23,543.53,Yuan,7.44,Brazil South,OEM,Yes,2024-07-06
+PADC0005BYD003,DC-DC Converter,Piece,No,Type2,176.01,611.93,260.72,Yuan,1.97,Brazil Southeast,OEM,Yes,2024-03-03
+PABMS006BYD003,Battery Management System (BMS),Piece,Yes,Type2,485.87,1083.05,416.54,Yuan,3.6,Brazil North,OEM,Yes,2024-03-01
+PAPEC007BYD003,Power Electronics Controller,Piece,No,Type1,606.3,67.29,322.08,Yuan,6.65,Brazil North,OEM,Yes,2024-01-16
+PATMS008BYD003,Thermal Management System,Piece,No,Type2,600.01,891.39,400.43,Yuan,1.29,Brazil Central-West,OEM,Yes,2024-01-03
+PARBS009BYD003,Regenerative Braking System,Piece,No,Type1,474.1,1125.38,398.3,Yuan,4.92,Brazil North,OEM,Yes,2024-03-24
+PAOC0100BYD003,Onboard Charger,Piece,No,Type1,785.67,955.74,415.4,Yuan,8.25,Brazil Southeast,OEM,Yes,2024-03-12
+PAHVC011BYD003,High Voltage Cables,Piece,No,Type1,765.5,656.29,387.64,Yuan,9.71,Brazil South,OEM,Yes,2024-05-26
+PAEDU012BYD003,Electric Drive unity,Piece,Yes,Type1,38.99,212.07,402.95,Yuan,4.43,Brazil North,OEM,Yes,2024-06-21
+PARG0130BYD003,Reduction Gear,Piece,Yes,Type2,403.13,353.72,768.16,Yuan,4.32,Brazil North,OEM,Yes,2024-07-04
+PAHP0140BYD003,Heat Pump,Piece,No,Type1,850.87,965.43,45.99,Yuan,5.19,Brazil South,OEM,Yes,2024-05-28
+PAEAC015BYD003,Electric Air Conditioning Compressor,Piece,Yes,Type2,342.73,484.04,894.43,Yuan,9.99,Brazil South,OEM,Yes,2024-02-21
+PAEWP016BYD003,Electric Water Pump,Piece,Yes,Type1,332.08,1103.84,103.79,Yuan,5.0,Brazil South,OEM,Yes,2024-01-02
+PABP0170BYD003,Brake Pads,Piece,Yes,Type2,717.1,935.0,513.53,Yuan,4.78,Brazil Northeast,OEM,Yes,2024-02-12
+PABD0180BYD003,Brake Discs,Piece,Yes,Type2,595.66,763.06,645.61,Yuan,6.5,Brazil South,OEM,Yes,2024-03-21
+PATI0190BYD003,Tires,Piece,No,Type1,290.46,1147.89,430.82,Yuan,8.35,Brazil North,OEM,Yes,2024-02-29
+PAWB0200BYD003,Wheel Bearings,Piece,Yes,Type1,86.66,647.94,297.19,Yuan,6.15,Brazil North,OEM,Yes,2024-06-08
+PAWS0210BYD003,Windshield,Piece,Yes,Type1,141.58,809.25,701.26,Yuan,5.85,Brazil North,OEM,Yes,2024-05-28
+PAMI0220BYD003,Mirrors,Piece,Yes,Type1,110.1,490.17,43.98,Yuan,6.32,Brazil North,OEM,Yes,2024-02-08
+PAHL0230BYD003,Headlights,Piece,No,Type1,944.64,171.15,604.67,Yuan,1.1,Brazil Northeast,OEM,Yes,2024-06-13
+PATL0240BYD003,Taillights,Piece,No,Type1,103.67,556.84,631.7,Yuan,1.65,Brazil South,OEM,Yes,2024-03-17
+PAWB0250BYD003,Wiper Blades,Piece,No,Type2,917.17,183.62,704.36,Yuan,4.95,Brazil South,OEM,Yes,2024-03-07
+PASC0260BYD003,"Suspension Components (Shocks, Struts)",Piece,No,Type1,765.45,135.51,557.27,Yuan,7.63,Brazil Southeast,OEM,Yes,2024-06-27
+PACA0270BYD003,Control Arms,Piece,No,Type1,778.49,62.78,496.48,Yuan,4.16,Brazil Southeast,OEM,Yes,2024-03-09
+PATRE028BYD003,Tie Rod Ends,Piece,Yes,Type2,967.7,616.43,51.07,Yuan,9.51,Brazil Southeast,OEM,Yes,2024-02-28
+PACVJ029BYD003,CV Joints,Piece,Yes,Type1,449.89,224.3,457.17,Yuan,4.41,Brazil Central-West,OEM,Yes,2024-07-23
+PAAX0300BYD003,Axles,Piece,No,Type1,643.61,1118.02,780.62,Yuan,4.91,Brazil South,OEM,Yes,2024-05-22
+PACL0310BYD003,Coolant (for thermal management),Piece,No,Type2,11.7,818.26,426.62,Yuan,9.07,Brazil Central-West,OEM,Yes,2024-06-12
+PABF0320BYD003,Brake Fluid,Piece,No,Type1,955.7,547.42,655.89,Yuan,6.18,Brazil North,OEM,Yes,2024-06-20
+PAPSF033BYD003,Power Steering Fluid (if applicable),Piece,No,Type2,197.49,688.82,330.21,Yuan,4.38,Brazil Central-West,OEM,Yes,2024-06-28
+PACAF034BYD003,Cabin Air Filter,Piece,Yes,Type2,656.67,344.98,469.52,Yuan,7.89,Brazil South,OEM,Yes,2024-04-15
+PAFB0350BYD003,Fuse Box,Piece,No,Type2,290.23,240.56,189.8,Yuan,1.73,Brazil South,OEM,Yes,2024-03-04
+PAAB0360BYD003,12V Auxiliary Battery,Piece,Yes,Type2,64.56,1088.66,385.35,Yuan,1.42,Brazil Central-West,OEM,Yes,2024-04-08
+PABP0001BYD004,Battery Pack,Piece,No,Type1,500.21,713.45,567.9,Han,1.25,Brazil Central-West,OEM,Yes,2024-06-06
+PAEM0002BYD004,Electric Motor,Piece,No,Type1,664.73,1029.72,219.5,Han,9.31,Brazil South,OEM,Yes,2024-07-16
+PAIN0003BYD004,Inverter,Piece,Yes,Type1,526.69,831.07,405.38,Han,5.86,Brazil Southeast,OEM,Yes,2024-06-13
+PACP0004BYD004,Charging Port,Piece,Yes,Type1,179.77,65.49,319.91,Han,9.71,Brazil South,OEM,Yes,2024-07-02
+PADC0005BYD004,DC-DC Converter,Piece,Yes,Type2,515.63,726.48,870.55,Han,3.9,Brazil Northeast,OEM,Yes,2024-01-08
+PABMS006BYD004,Battery Management System (BMS),Piece,No,Type1,139.21,1116.46,439.95,Han,9.56,Brazil Northeast,OEM,Yes,2024-01-17
+PAPEC007BYD004,Power Electronics Controller,Piece,No,Type2,542.2,108.01,695.49,Han,8.66,Brazil Northeast,OEM,Yes,2024-01-17
+PATMS008BYD004,Thermal Management System,Piece,Yes,Type1,165.49,995.78,17.51,Han,0.76,Brazil Northeast,OEM,Yes,2024-05-12
+PARBS009BYD004,Regenerative Braking System,Piece,Yes,Type1,82.07,401.41,275.63,Han,2.66,Brazil Central-West,OEM,Yes,2024-02-01
+PAOC0100BYD004,Onboard Charger,Piece,No,Type1,211.28,473.83,71.49,Han,9.08,Brazil Southeast,OEM,Yes,2024-06-24
+PAHVC011BYD004,High Voltage Cables,Piece,No,Type1,53.8,1131.26,630.36,Han,1.59,Brazil North,OEM,Yes,2024-04-06
+PAEDU012BYD004,Electric Drive unity,Piece,Yes,Type1,750.2,858.0,466.83,Han,6.29,Brazil South,OEM,Yes,2024-02-15
+PARG0130BYD004,Reduction Gear,Piece,Yes,Type1,384.65,1108.55,188.02,Han,3.6,Brazil Central-West,OEM,Yes,2024-06-10
+PAHP0140BYD004,Heat Pump,Piece,No,Type2,258.41,93.93,158.5,Han,5.85,Brazil South,OEM,Yes,2024-04-12
+PAEAC015BYD004,Electric Air Conditioning Compressor,Piece,Yes,Type1,428.9,837.04,115.67,Han,1.61,Brazil Northeast,OEM,Yes,2024-01-20
+PAEWP016BYD004,Electric Water Pump,Piece,Yes,Type2,25.99,709.23,792.77,Han,0.66,Brazil Northeast,OEM,Yes,2024-03-10
+PABP0170BYD004,Brake Pads,Piece,No,Type2,151.85,974.06,177.0,Han,4.24,Brazil Central-West,OEM,Yes,2024-05-23
+PABD0180BYD004,Brake Discs,Piece,Yes,Type1,33.67,1098.09,311.26,Han,5.11,Brazil North,OEM,Yes,2024-07-03
+PATI0190BYD004,Tires,Piece,No,Type1,999.06,57.38,159.25,Han,5.09,Brazil Northeast,OEM,Yes,2024-01-23
+PAWB0200BYD004,Wheel Bearings,Piece,Yes,Type2,689.38,1059.3,60.26,Han,8.4,Brazil North,OEM,Yes,2024-03-11
+PAWS0210BYD004,Windshield,Piece,Yes,Type1,345.29,559.21,27.54,Han,4.76,Brazil Southeast,OEM,Yes,2024-05-14
+PAMI0220BYD004,Mirrors,Piece,No,Type1,819.27,600.48,333.04,Han,7.3,Brazil Northeast,OEM,Yes,2024-04-06
+PAHL0230BYD004,Headlights,Piece,No,Type1,590.47,271.56,487.84,Han,4.04,Brazil North,OEM,Yes,2024-06-01
+PATL0240BYD004,Taillights,Piece,No,Type1,557.44,1077.95,442.44,Han,9.86,Brazil Southeast,OEM,Yes,2024-05-09
+PAWB0250BYD004,Wiper Blades,Piece,Yes,Type1,458.02,688.2,871.87,Han,0.74,Brazil South,OEM,Yes,2024-07-14
+PASC0260BYD004,"Suspension Components (Shocks, Struts)",Piece,Yes,Type1,29.96,492.22,708.26,Han,6.34,Brazil Northeast,OEM,Yes,2024-04-18
+PACA0270BYD004,Control Arms,Piece,No,Type1,646.68,1034.48,483.83,Han,5.01,Brazil Southeast,OEM,Yes,2024-06-13
+PATRE028BYD004,Tie Rod Ends,Piece,No,Type2,846.72,437.25,433.25,Han,2.24,Brazil Southeast,OEM,Yes,2024-06-01
+PACVJ029BYD004,CV Joints,Piece,Yes,Type2,397.64,631.33,347.64,Han,7.92,Brazil Central-West,OEM,Yes,2024-05-06
+PAAX0300BYD004,Axles,Piece,Yes,Type2,212.05,370.65,310.84,Han,8.32,Brazil Central-West,OEM,Yes,2024-05-17
+PACL0310BYD004,Coolant (for thermal management),Piece,Yes,Type1,977.21,357.93,175.21,Han,6.06,Brazil South,OEM,Yes,2024-02-16
+PABF0320BYD004,Brake Fluid,Piece,No,Type1,378.63,778.05,863.87,Han,0.84,Brazil Central-West,OEM,Yes,2024-05-11
+PAPSF033BYD004,Power Steering Fluid (if applicable),Piece,No,Type2,579.27,740.17,771.79,Han,2.73,Brazil North,OEM,Yes,2024-01-21
+PACAF034BYD004,Cabin Air Filter,Piece,Yes,Type1,878.86,236.88,798.76,Han,7.6,Brazil Central-West,OEM,Yes,2024-03-22
+PAFB0350BYD004,Fuse Box,Piece,No,Type1,719.86,1065.13,21.74,Han,4.79,Brazil North,OEM,Yes,2024-03-28
+PAAB0360BYD004,12V Auxiliary Battery,Piece,Yes,Type2,281.27,525.95,680.67,Han,2.74,Brazil North,OEM,Yes,2024-01-21
+PABP0001BYD005,Battery Pack,Piece,Yes,Type2,209.67,195.32,775.36,Tan,1.8,Brazil Northeast,OEM,Yes,2024-02-20
+PAEM0002BYD005,Electric Motor,Piece,No,Type1,432.84,530.31,434.28,Tan,3.7,Brazil Northeast,OEM,Yes,2024-02-08
+PAIN0003BYD005,Inverter,Piece,No,Type1,718.58,300.5,582.05,Tan,2.62,Brazil Southeast,OEM,Yes,2024-03-27
+PACP0004BYD005,Charging Port,Piece,No,Type1,758.3,316.63,48.06,Tan,9.66,Brazil Southeast,OEM,Yes,2024-04-12
+PADC0005BYD005,DC-DC Converter,Piece,No,Type1,231.39,607.94,326.63,Tan,3.68,Brazil Northeast,OEM,Yes,2024-03-03
+PABMS006BYD005,Battery Management System (BMS),Piece,No,Type2,724.84,1097.12,771.15,Tan,9.77,Brazil Northeast,OEM,Yes,2024-06-25
+PAPEC007BYD005,Power Electronics Controller,Piece,No,Type1,987.86,460.32,125.67,Tan,4.8,Brazil Southeast,OEM,Yes,2024-06-18
+PATMS008BYD005,Thermal Management System,Piece,Yes,Type2,711.23,1075.45,874.18,Tan,1.34,Brazil South,OEM,Yes,2024-03-28
+PARBS009BYD005,Regenerative Braking System,Piece,No,Type1,42.3,84.91,562.5,Tan,8.64,Brazil South,OEM,Yes,2024-04-12
+PAOC0100BYD005,Onboard Charger,Piece,No,Type2,916.98,124.03,99.82,Tan,2.85,Brazil Southeast,OEM,Yes,2024-07-23
+PAHVC011BYD005,High Voltage Cables,Piece,Yes,Type2,268.56,1026.74,474.48,Tan,3.58,Brazil South,OEM,Yes,2024-07-11
+PAEDU012BYD005,Electric Drive unity,Piece,Yes,Type1,573.62,220.39,69.79,Tan,6.56,Brazil North,OEM,Yes,2024-06-12
+PARG0130BYD005,Reduction Gear,Piece,Yes,Type1,365.12,605.04,399.39,Tan,9.91,Brazil Central-West,OEM,Yes,2024-02-12
+PAHP0140BYD005,Heat Pump,Piece,Yes,Type2,96.62,1157.08,857.3,Tan,6.82,Brazil South,OEM,Yes,2024-01-15
+PAEAC015BYD005,Electric Air Conditioning Compressor,Piece,Yes,Type1,145.17,1071.81,570.08,Tan,8.81,Brazil Central-West,OEM,Yes,2024-02-04
+PAEWP016BYD005,Electric Water Pump,Piece,No,Type2,887.09,28.24,861.7,Tan,3.11,Brazil Central-West,OEM,Yes,2024-03-30
+PABP0170BYD005,Brake Pads,Piece,Yes,Type2,815.35,1169.9,228.91,Tan,3.24,Brazil Central-West,OEM,Yes,2024-02-08
+PABD0180BYD005,Brake Discs,Piece,No,Type1,272.2,449.07,703.63,Tan,9.8,Brazil Southeast,OEM,Yes,2024-01-31
+PATI0190BYD005,Tires,Piece,Yes,Type2,451.77,872.62,720.38,Tan,3.27,Brazil Northeast,OEM,Yes,2024-01-02
+PAWB0200BYD005,Wheel Bearings,Piece,Yes,Type2,889.12,53.34,64.3,Tan,4.13,Brazil North,OEM,Yes,2024-02-06
+PAWS0210BYD005,Windshield,Piece,No,Type2,223.81,1012.8,523.36,Tan,2.93,Brazil North,OEM,Yes,2024-01-24
+PAMI0220BYD005,Mirrors,Piece,No,Type2,943.68,633.26,500.1,Tan,0.61,Brazil Central-West,OEM,Yes,2024-01-01
+PAHL0230BYD005,Headlights,Piece,Yes,Type1,974.81,242.73,511.08,Tan,3.3,Brazil South,OEM,Yes,2024-06-01
+PATL0240BYD005,Taillights,Piece,No,Type2,37.5,1090.93,669.57,Tan,8.93,Brazil Central-West,OEM,Yes,2024-01-28
+PAWB0250BYD005,Wiper Blades,Piece,Yes,Type2,107.87,735.06,743.2,Tan,5.79,Brazil South,OEM,Yes,2024-04-04
+PASC0260BYD005,"Suspension Components (Shocks, Struts)",Piece,No,Type1,307.95,867.64,889.16,Tan,8.3,Brazil Southeast,OEM,Yes,2024-05-21
+PACA0270BYD005,Control Arms,Piece,Yes,Type2,856.14,555.03,39.39,Tan,7.85,Brazil Southeast,OEM,Yes,2024-02-10
+PATRE028BYD005,Tie Rod Ends,Piece,No,Type1,220.71,1142.53,161.56,Tan,4.93,Brazil Northeast,OEM,Yes,2024-03-29
+PACVJ029BYD005,CV Joints,Piece,No,Type2,667.61,826.09,221.23,Tan,9.36,Brazil Southeast,OEM,Yes,2024-05-05
+PAAX0300BYD005,Axles,Piece,Yes,Type1,374.33,263.57,524.43,Tan,4.58,Brazil Northeast,OEM,Yes,2024-03-18
+PACL0310BYD005,Coolant (for thermal management),Piece,No,Type2,196.35,1021.06,684.64,Tan,4.75,Brazil South,OEM,Yes,2024-05-31
+PABF0320BYD005,Brake Fluid,Piece,Yes,Type1,798.17,220.18,122.21,Tan,5.72,Brazil Southeast,OEM,Yes,2024-05-24
+PAPSF033BYD005,Power Steering Fluid (if applicable),Piece,Yes,Type1,55.86,163.82,281.22,Tan,9.13,Brazil Central-West,OEM,Yes,2024-06-27
+PACAF034BYD005,Cabin Air Filter,Piece,Yes,Type2,400.26,852.38,386.08,Tan,2.42,Brazil Northeast,OEM,Yes,2024-04-21
+PAFB0350BYD005,Fuse Box,Piece,No,Type2,632.19,588.82,485.0,Tan,1.1,Brazil South,OEM,Yes,2024-07-18
+PAAB0360BYD005,12V Auxiliary Battery,Piece,Yes,Type1,870.23,590.59,403.2,Tan,1.84,Brazil Northeast,OEM,Yes,2024-05-05
