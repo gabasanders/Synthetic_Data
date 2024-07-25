@@ -1,0 +1,101 @@
+labourCode,labourName,vehicleSeries,mainCategory,secondaryClassification,isBatteryRepair
+WLR001BYD001,Battery Replacement,Dolphin,Electrical,Battery,Y
+WLR002BYD001,Motor Repair,Dolphin,Mechanical,Motor,N
+WLR003BYD001,Inverter Replacement,Dolphin,Electrical,Inverter,N
+WLR004BYD001,Charging Port Repair,Dolphin,Electrical,Charging Port,N
+WLR005BYD001,DC-DC Converter Replacement,Dolphin,Electrical,DC-DC Converter,N
+WLR006BYD001,BMS Calibration,Dolphin,Electrical,BMS,Y
+WLR007BYD001,Power Electronics Repair,Dolphin,Electrical,Power Electronics,N
+WLR008BYD001,Thermal Management Service,Dolphin,Thermal Management,Thermal Management,N
+WLR009BYD001,Regenerative Braking Adjustment,Dolphin,Electrical,Regenerative Braking,N
+WLR010BYD001,Onboard Charger Repair,Dolphin,Electrical,Onboard Charger,N
+WLR011BYD001,Drive unity Maintenance,Dolphin,Mechanical,Drive Unit,N
+WLR012BYD001,Gearbox Service,Dolphin,Mechanical,Gearbox,N
+WLR013BYD001,Heat Pump Repair,Dolphin,Thermal Management,Heat Pump,N
+WLR014BYD001,AC Compressor Service,Dolphin,Thermal Management,AC Compressor,N
+WLR015BYD001,Water Pump Replacement,Dolphin,Cooling System,Water Pump,N
+WLR016BYD001,Brake System Service,Dolphin,Brake System,Brake System,N
+WLR017BYD001,Suspension Repair,Dolphin,Suspension,Suspension,N
+WLR018BYD001,Headlight Alignment,Dolphin,Lighting,Headlight,N
+WLR019BYD001,Windshield Replacement,Dolphin,Body,Windshield,N
+WLR020BYD001,Fuse Replacement,Dolphin,Electrical,Fuse,N
+WLR001BYD002,Battery Replacement,Seal,Electrical,Battery,Y
+WLR002BYD002,Motor Repair,Seal,Mechanical,Motor,N
+WLR003BYD002,Inverter Replacement,Seal,Electrical,Inverter,N
+WLR004BYD002,Charging Port Repair,Seal,Electrical,Charging Port,N
+WLR005BYD002,DC-DC Converter Replacement,Seal,Electrical,DC-DC Converter,N
+WLR006BYD002,BMS Calibration,Seal,Electrical,BMS,Y
+WLR007BYD002,Power Electronics Repair,Seal,Electrical,Power Electronics,N
+WLR008BYD002,Thermal Management Service,Seal,Thermal Management,Thermal Management,N
+WLR009BYD002,Regenerative Braking Adjustment,Seal,Electrical,Regenerative Braking,N
+WLR010BYD002,Onboard Charger Repair,Seal,Electrical,Onboard Charger,N
+WLR011BYD002,Drive unity Maintenance,Seal,Mechanical,Drive Unit,N
+WLR012BYD002,Gearbox Service,Seal,Mechanical,Gearbox,N
+WLR013BYD002,Heat Pump Repair,Seal,Thermal Management,Heat Pump,N
+WLR014BYD002,AC Compressor Service,Seal,Thermal Management,AC Compressor,N
+WLR015BYD002,Water Pump Replacement,Seal,Cooling System,Water Pump,N
+WLR016BYD002,Brake System Service,Seal,Brake System,Brake System,N
+WLR017BYD002,Suspension Repair,Seal,Suspension,Suspension,N
+WLR018BYD002,Headlight Alignment,Seal,Lighting,Headlight,N
+WLR019BYD002,Windshield Replacement,Seal,Body,Windshield,N
+WLR020BYD002,Fuse Replacement,Seal,Electrical,Fuse,N
+WLR001BYD003,Battery Replacement,Yuan,Electrical,Battery,Y
+WLR002BYD003,Motor Repair,Yuan,Mechanical,Motor,N
+WLR003BYD003,Inverter Replacement,Yuan,Electrical,Inverter,N
+WLR004BYD003,Charging Port Repair,Yuan,Electrical,Charging Port,N
+WLR005BYD003,DC-DC Converter Replacement,Yuan,Electrical,DC-DC Converter,N
+WLR006BYD003,BMS Calibration,Yuan,Electrical,BMS,Y
+WLR007BYD003,Power Electronics Repair,Yuan,Electrical,Power Electronics,N
+WLR008BYD003,Thermal Management Service,Yuan,Thermal Management,Thermal Management,N
+WLR009BYD003,Regenerative Braking Adjustment,Yuan,Electrical,Regenerative Braking,N
+WLR010BYD003,Onboard Charger Repair,Yuan,Electrical,Onboard Charger,N
+WLR011BYD003,Drive unity Maintenance,Yuan,Mechanical,Drive Unit,N
+WLR012BYD003,Gearbox Service,Yuan,Mechanical,Gearbox,N
+WLR013BYD003,Heat Pump Repair,Yuan,Thermal Management,Heat Pump,N
+WLR014BYD003,AC Compressor Service,Yuan,Thermal Management,AC Compressor,N
+WLR015BYD003,Water Pump Replacement,Yuan,Cooling System,Water Pump,N
+WLR016BYD003,Brake System Service,Yuan,Brake System,Brake System,N
+WLR017BYD003,Suspension Repair,Yuan,Suspension,Suspension,N
+WLR018BYD003,Headlight Alignment,Yuan,Lighting,Headlight,N
+WLR019BYD003,Windshield Replacement,Yuan,Body,Windshield,N
+WLR020BYD003,Fuse Replacement,Yuan,Electrical,Fuse,N
+WLR001BYD004,Battery Replacement,Han,Electrical,Battery,Y
+WLR002BYD004,Motor Repair,Han,Mechanical,Motor,N
+WLR003BYD004,Inverter Replacement,Han,Electrical,Inverter,N
+WLR004BYD004,Charging Port Repair,Han,Electrical,Charging Port,N
+WLR005BYD004,DC-DC Converter Replacement,Han,Electrical,DC-DC Converter,N
+WLR006BYD004,BMS Calibration,Han,Electrical,BMS,Y
+WLR007BYD004,Power Electronics Repair,Han,Electrical,Power Electronics,N
+WLR008BYD004,Thermal Management Service,Han,Thermal Management,Thermal Management,N
+WLR009BYD004,Regenerative Braking Adjustment,Han,Electrical,Regenerative Braking,N
+WLR010BYD004,Onboard Charger Repair,Han,Electrical,Onboard Charger,N
+WLR011BYD004,Drive unity Maintenance,Han,Mechanical,Drive Unit,N
+WLR012BYD004,Gearbox Service,Han,Mechanical,Gearbox,N
+WLR013BYD004,Heat Pump Repair,Han,Thermal Management,Heat Pump,N
+WLR014BYD004,AC Compressor Service,Han,Thermal Management,AC Compressor,N
+WLR015BYD004,Water Pump Replacement,Han,Cooling System,Water Pump,N
+WLR016BYD004,Brake System Service,Han,Brake System,Brake System,N
+WLR017BYD004,Suspension Repair,Han,Suspension,Suspension,N
+WLR018BYD004,Headlight Alignment,Han,Lighting,Headlight,N
+WLR019BYD004,Windshield Replacement,Han,Body,Windshield,N
+WLR020BYD004,Fuse Replacement,Han,Electrical,Fuse,N
+WLR001BYD005,Battery Replacement,Tan,Electrical,Battery,Y
+WLR002BYD005,Motor Repair,Tan,Mechanical,Motor,N
+WLR003BYD005,Inverter Replacement,Tan,Electrical,Inverter,N
+WLR004BYD005,Charging Port Repair,Tan,Electrical,Charging Port,N
+WLR005BYD005,DC-DC Converter Replacement,Tan,Electrical,DC-DC Converter,N
+WLR006BYD005,BMS Calibration,Tan,Electrical,BMS,Y
+WLR007BYD005,Power Electronics Repair,Tan,Electrical,Power Electronics,N
+WLR008BYD005,Thermal Management Service,Tan,Thermal Management,Thermal Management,N
+WLR009BYD005,Regenerative Braking Adjustment,Tan,Electrical,Regenerative Braking,N
+WLR010BYD005,Onboard Charger Repair,Tan,Electrical,Onboard Charger,N
+WLR011BYD005,Drive unity Maintenance,Tan,Mechanical,Drive Unit,N
+WLR012BYD005,Gearbox Service,Tan,Mechanical,Gearbox,N
+WLR013BYD005,Heat Pump Repair,Tan,Thermal Management,Heat Pump,N
+WLR014BYD005,AC Compressor Service,Tan,Thermal Management,AC Compressor,N
+WLR015BYD005,Water Pump Replacement,Tan,Cooling System,Water Pump,N
+WLR016BYD005,Brake System Service,Tan,Brake System,Brake System,N
+WLR017BYD005,Suspension Repair,Tan,Suspension,Suspension,N
+WLR018BYD005,Headlight Alignment,Tan,Lighting,Headlight,N
+WLR019BYD005,Windshield Replacement,Tan,Body,Windshield,N
+WLR020BYD005,Fuse Replacement,Tan,Electrical,Fuse,N

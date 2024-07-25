@@ -1,0 +1,6 @@
+CLIENT_ID,CLIENT_FIRST_NAME,CLIENT_LAST_NAME,CAR,CLAIM,dealerId,delaerOrderId
+1.0,Maria Isis,Cavalcanti,Dolphin,Range anxiety,27.0,000001
+2.0,Maria,Novaes,Yuan,Battery degradation,33.0,000002
+3.0,Camila,Cardoso,Dolphin,Battery degradation,16.0,000003
+4.0,Lara,da Cunha,Dolphin,Inverter problems,11.0,000004
+5.0,Gabriela,Barros,Dolphin,Battery management system failure,45.0,000005
