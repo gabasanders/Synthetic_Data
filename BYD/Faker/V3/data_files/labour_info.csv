@@ -1,0 +1,101 @@
+LABOUR_NAME,VEHICLE_SERIES,MAIN_CATEGORY,SECONDARY_CLASSIFICATION,IS_BATTERY_REPAIR
+Battery Replacement,Dolphin,Electrical,Battery,Y
+Motor Repair,Dolphin,Mechanical,Motor,N
+Inverter Replacement,Dolphin,Electrical,Inverter,N
+Charging Port Repair,Dolphin,Electrical,Charging Port,N
+DC-DC Converter Replacement,Dolphin,Electrical,DC-DC Converter,N
+BMS Calibration,Dolphin,Electrical,BMS,Y
+Power Electronics Repair,Dolphin,Electrical,Power Electronics,N
+Thermal Management Service,Dolphin,Thermal Management,Thermal Management,N
+Regenerative Braking Adjustment,Dolphin,Electrical,Regenerative Braking,N
+Onboard Charger Repair,Dolphin,Electrical,Onboard Charger,N
+Drive unity Maintenance,Dolphin,Mechanical,Drive Unit,N
+Gearbox Service,Dolphin,Mechanical,Gearbox,N
+Heat Pump Repair,Dolphin,Thermal Management,Heat Pump,N
+AC Compressor Service,Dolphin,Thermal Management,AC Compressor,N
+Water Pump Replacement,Dolphin,Cooling System,Water Pump,N
+Brake System Service,Dolphin,Brake System,Brake System,N
+Suspension Repair,Dolphin,Suspension,Suspension,N
+Headlight Alignment,Dolphin,Lighting,Headlight,N
+Windshield Replacement,Dolphin,Body,Windshield,N
+Fuse Replacement,Dolphin,Electrical,Fuse,N
+Battery Replacement,Seal,Electrical,Battery,Y
+Motor Repair,Seal,Mechanical,Motor,N
+Inverter Replacement,Seal,Electrical,Inverter,N
+Charging Port Repair,Seal,Electrical,Charging Port,N
+DC-DC Converter Replacement,Seal,Electrical,DC-DC Converter,N
+BMS Calibration,Seal,Electrical,BMS,Y
+Power Electronics Repair,Seal,Electrical,Power Electronics,N
+Thermal Management Service,Seal,Thermal Management,Thermal Management,N
+Regenerative Braking Adjustment,Seal,Electrical,Regenerative Braking,N
+Onboard Charger Repair,Seal,Electrical,Onboard Charger,N
+Drive unity Maintenance,Seal,Mechanical,Drive Unit,N
+Gearbox Service,Seal,Mechanical,Gearbox,N
+Heat Pump Repair,Seal,Thermal Management,Heat Pump,N
+AC Compressor Service,Seal,Thermal Management,AC Compressor,N
+Water Pump Replacement,Seal,Cooling System,Water Pump,N
+Brake System Service,Seal,Brake System,Brake System,N
+Suspension Repair,Seal,Suspension,Suspension,N
+Headlight Alignment,Seal,Lighting,Headlight,N
+Windshield Replacement,Seal,Body,Windshield,N
+Fuse Replacement,Seal,Electrical,Fuse,N
+Battery Replacement,Yuan,Electrical,Battery,Y
+Motor Repair,Yuan,Mechanical,Motor,N
+Inverter Replacement,Yuan,Electrical,Inverter,N
+Charging Port Repair,Yuan,Electrical,Charging Port,N
+DC-DC Converter Replacement,Yuan,Electrical,DC-DC Converter,N
+BMS Calibration,Yuan,Electrical,BMS,Y
+Power Electronics Repair,Yuan,Electrical,Power Electronics,N
+Thermal Management Service,Yuan,Thermal Management,Thermal Management,N
+Regenerative Braking Adjustment,Yuan,Electrical,Regenerative Braking,N
+Onboard Charger Repair,Yuan,Electrical,Onboard Charger,N
+Drive unity Maintenance,Yuan,Mechanical,Drive Unit,N
+Gearbox Service,Yuan,Mechanical,Gearbox,N
+Heat Pump Repair,Yuan,Thermal Management,Heat Pump,N
+AC Compressor Service,Yuan,Thermal Management,AC Compressor,N
+Water Pump Replacement,Yuan,Cooling System,Water Pump,N
+Brake System Service,Yuan,Brake System,Brake System,N
+Suspension Repair,Yuan,Suspension,Suspension,N
+Headlight Alignment,Yuan,Lighting,Headlight,N
+Windshield Replacement,Yuan,Body,Windshield,N
+Fuse Replacement,Yuan,Electrical,Fuse,N
+Battery Replacement,Han,Electrical,Battery,Y
+Motor Repair,Han,Mechanical,Motor,N
+Inverter Replacement,Han,Electrical,Inverter,N
+Charging Port Repair,Han,Electrical,Charging Port,N
+DC-DC Converter Replacement,Han,Electrical,DC-DC Converter,N
+BMS Calibration,Han,Electrical,BMS,Y
+Power Electronics Repair,Han,Electrical,Power Electronics,N
+Thermal Management Service,Han,Thermal Management,Thermal Management,N
+Regenerative Braking Adjustment,Han,Electrical,Regenerative Braking,N
+Onboard Charger Repair,Han,Electrical,Onboard Charger,N
+Drive unity Maintenance,Han,Mechanical,Drive Unit,N
+Gearbox Service,Han,Mechanical,Gearbox,N
+Heat Pump Repair,Han,Thermal Management,Heat Pump,N
+AC Compressor Service,Han,Thermal Management,AC Compressor,N
+Water Pump Replacement,Han,Cooling System,Water Pump,N
+Brake System Service,Han,Brake System,Brake System,N
+Suspension Repair,Han,Suspension,Suspension,N
+Headlight Alignment,Han,Lighting,Headlight,N
+Windshield Replacement,Han,Body,Windshield,N
+Fuse Replacement,Han,Electrical,Fuse,N
+Battery Replacement,Tan,Electrical,Battery,Y
+Motor Repair,Tan,Mechanical,Motor,N
+Inverter Replacement,Tan,Electrical,Inverter,N
+Charging Port Repair,Tan,Electrical,Charging Port,N
+DC-DC Converter Replacement,Tan,Electrical,DC-DC Converter,N
+BMS Calibration,Tan,Electrical,BMS,Y
+Power Electronics Repair,Tan,Electrical,Power Electronics,N
+Thermal Management Service,Tan,Thermal Management,Thermal Management,N
+Regenerative Braking Adjustment,Tan,Electrical,Regenerative Braking,N
+Onboard Charger Repair,Tan,Electrical,Onboard Charger,N
+Drive unity Maintenance,Tan,Mechanical,Drive Unit,N
+Gearbox Service,Tan,Mechanical,Gearbox,N
+Heat Pump Repair,Tan,Thermal Management,Heat Pump,N
+AC Compressor Service,Tan,Thermal Management,AC Compressor,N
+Water Pump Replacement,Tan,Cooling System,Water Pump,N
+Brake System Service,Tan,Brake System,Brake System,N
+Suspension Repair,Tan,Suspension,Suspension,N
+Headlight Alignment,Tan,Lighting,Headlight,N
+Windshield Replacement,Tan,Body,Windshield,N
+Fuse Replacement,Tan,Electrical,Fuse,N
